@@ -16,15 +16,15 @@ Other accessories
 
 # 1. Rotating base installation
 
-![img](Installation instructions.assets/wps30.jpg)
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140754.jpg)
 
-![img](Installation instructions.assets/wps31.jpg) 
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140755.jpg) 
 
-![img](Installation instructions.assets/wps32.jpg) 
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140756.jpg) 
 
-![img](Installation instructions.assets/wps33.jpg)
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140757.jpg)
 
-![wps57](Installation instructions.assets/wps57.png)
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140809.png)
 
 # 2. Install Big Arm
 
