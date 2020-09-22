@@ -1,6 +1,6 @@
 4DOF Robot Arm Installation Manual
 
-![wps29](Installation instructions.assets/wps29.png)
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140622.png)
 
 Note: The 180-degree steering gear is different from ordinary motors and has a fixed angle. All the servos are in the 90-degree neutral state before shipment. Please do not rotate the servo angle at will before installing the robot arm, otherwise the installation will fail!
 
