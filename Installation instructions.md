@@ -28,17 +28,15 @@ Other accessories
 
 # 2. Install Big Arm
 
-![img](Installation instructions.assets/wps34.jpg) 
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140758.jpg) 
 
- 
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140759.jpg)
 
-![img](Installation instructions.assets/wps35.jpg)
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140800.jpg) 
 
-![img](Installation instructions.assets/wps38.jpg) 
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140801.jpg)
 
-![img](Installation instructions.assets/wps39.jpg)![i
-
-![img](Installation instructions.assets/wps41.jpg) 
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140802.jpg) 
 
 # 3. Install The Beam
 
