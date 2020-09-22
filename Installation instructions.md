@@ -40,16 +40,16 @@ Other accessories
 
 # 3. Install The Beam
 
-# ![img](Installation instructions.assets/wps42.jpg) 
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140803.jpg) 
 
-![img](Installation instructions.assets/wps43.jpg) 
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140804.jpg) 
 
-![img](Installation instructions.assets/wps53.jpg) 
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140805.jpg) 
 
-![img](Installation instructions.assets/wps54.jpg) 
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140806.jpg) 
 
-![img](Installation instructions.assets/wps55.jpg) 
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140807.jpg) 
 
-![img](Installation instructions.assets/wps56.jpg) 
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140808.jpg) 
 
  
