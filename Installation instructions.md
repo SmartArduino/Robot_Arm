@@ -8,11 +8,11 @@ Note: The 180-degree steering gear is different from ordinary motors and has a f
 
 Screw package used for installation:
 
-![wps58](Installation instructions.assets/wps58.png)
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140810.png)
 
 Other accessories
 
-![wps59](Installation instructions.assets/wps59.png)
+![img](https://github.com/SmartArduino/Robot_Arm/blob/master/img/20200922140811.png)
 
 # 1. Rotating base installation
 
